@@ -1,7 +1,7 @@
 ### Hello there👋
 
-- 🏫 I'm currently a senior undergraduate student studying Computer Engineering at the Amirkabir University of Technology. 
-- 📚 My research interest field is:
+- 🏫 I'm currently a senior undergraduate student, studying Computer Engineering at the Amirkabir University of Technology. 
+- 📚 My research interest fields are:
   - Computer Vision
   - Natural Language Processing
   - Explainable AI
