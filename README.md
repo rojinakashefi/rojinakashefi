@@ -1,6 +1,6 @@
 ### Hello there👋
 
-- 🏫 I'm currently a senior undergraduate student, studying Computer Engineering at the Amirkabir University of Technology. 
+- 🏫 I'm a B.Sc. graduate in Computer Engineering from Amirkabir University of Technology.
 - 📚 My research interest fields are:
   - Computer Vision
   - Trustworthy ML
