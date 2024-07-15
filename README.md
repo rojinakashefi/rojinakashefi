@@ -3,16 +3,15 @@
 - 🏫 I'm a B.Sc. graduate in Computer Engineering from Amirkabir University of Technology.
 - 📚 My research interest fields are:
 
-<table class="research-interests" style="width:100%; border-collapse:collapse; border:none;">
-    <tr style="border:none;">
-        <td style="padding:10px; text-align:center; border:none;">Trustworthy ML</td>
-        <td style="padding:10px; text-align:center; border:none;">Computer Vision</td>
-        <td style="padding:10px; text-align:center; border:none;">Continual Learning</td>
-        <td style="padding:10px; text-align:center; border:none;">Machine Learning</td>
-        <td style="padding:10px; text-align:center; border:none;">Deep Learning</td>
-        <td style="padding:10px; text-align:center; border:none;">AI in Health care</td>
-    </tr>
-</table>
+<ul style="list-style-type: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap;">
+    <li style="margin-right: 15px;">• Trustworthy ML</li>
+    <li style="margin-right: 15px;">• Computer Vision</li>
+    <li style="margin-right: 15px;">• Continual Learning</li>
+    <li style="margin-right: 15px;">• Machine Learning</li>
+    <li style="margin-right: 15px;">• Deep Learning</li>
+    <li style="margin-right: 15px;">• AI in Health care</li>
+    <li style="margin-right: 15px;">• Neuroscience</li>
+</ul>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rojinakashefi&show_icons=true&count_private=true&theme=algolia&hide_rank=True)
 
