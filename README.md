@@ -3,12 +3,14 @@
 - 🏫 I'm a B.Sc. graduate in Computer Engineering from Amirkabir University of Technology.
 - 📚 My research interest fields are:
 
-<table class="research-interests" style="width:100%; border-collapse:collapse;">
-    <tr>
-        <td style="padding:10px; text-align:center;">Trustworthy ML</td>
-        <td style="padding:10px; text-align:center;">Computer Vision</td>
-        <td style="padding:10px; text-align:center;">Continual Learning</td>
-        <td style="padding:10px; text-align:center;">Machine Learning & Deep Learning</td>
+<table class="research-interests" style="width:100%; border-collapse:collapse; border:none;">
+    <tr style="border:none;">
+        <td style="padding:10px; text-align:center; border:none;">Trustworthy ML</td>
+        <td style="padding:10px; text-align:center; border:none;">Computer Vision</td>
+        <td style="padding:10px; text-align:center; border:none;">Continual Learning</td>
+        <td style="padding:10px; text-align:center; border:none;">Machine Learning</td>
+        <td style="padding:10px; text-align:center; border:none;">Deep Learning</td>
+        <td style="padding:10px; text-align:center; border:none;">AI in Health care</td>
     </tr>
 </table>
 
