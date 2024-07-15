@@ -2,12 +2,15 @@
 
 - 🏫 I'm a B.Sc. graduate in Computer Engineering from Amirkabir University of Technology.
 - 📚 My research interest fields are:
-  - Computer Vision
   - Trustworthy ML
+  - Computer Vision
+  - Continual Learning
+  - Machine Learning & Deep Learning
+  
 
-![Rojina Kashefi's GitHub stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rojinakashefi&show_icons=true&count_private=true&theme=algolia&hide_rank=True)
+![](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rojinakashefi&show_icons=true&count_private=true&theme=algolia&hide_rank=True)
 )
 
 
-![](https://komarev.com/ghpvc/?username=rojinakashefi&color=green)
+![](https://komarev.com/ghpvc/?username=rojinakashefi&color=lightgrey)
 - 📫 You can reach me by my [email](mailto:kashefirojina8@gmail.com)
