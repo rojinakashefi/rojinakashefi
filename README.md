@@ -5,7 +5,9 @@
   - Computer Vision
   - Trustworthy ML
 
-![Rojina Kashefi's GitHub stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rojinakashefi&show_icons=true&count_private=true&theme=algolia&hide=followers)
+![Rojina Kashefi's GitHub stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rojinakashefi&show_icons=true&count_private=true&theme=algolia&hide_rank=True)
 )
+
+
 ![](https://komarev.com/ghpvc/?username=rojinakashefi&color=green)
 - 📫 You can reach me by my [email](mailto:kashefirojina8@gmail.com)
