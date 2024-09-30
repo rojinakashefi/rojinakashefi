@@ -7,6 +7,7 @@
   - Computer Vision
   - Continual Learning
   - Generative AI
+  - Explainable AI (XAI)
   - AI in Health care
   - Neuroscience
   - Deep Learning
