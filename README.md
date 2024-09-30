@@ -6,6 +6,7 @@
   - Trustworthy ML
   - Computer Vision
   - Continual Learning
+  - Generative AI
   - AI in Health care
   - Neuroscience
   - Deep Learning
