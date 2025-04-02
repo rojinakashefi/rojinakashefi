@@ -4,19 +4,7 @@
 
 - 📚 My research interest fields are:
 
-<div style="display: flex; justify-content: space-between;">
-  <ul>
-    <li>Computer Vision</li>
-    <li>Multi-Modal Models</li>
-  </ul>
-  <ul>
-    <li>Generative AI</li>
-    <li>AI Applications</li>
-  </ul>
-  <ul>
-    <li>Machine Learning</li>
-    <li>Deep Learning</li>
-  </ul>
+    
 </div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rojinakashefi&show_icons=true&count_private=true&theme=algolia&hide_rank=True)
