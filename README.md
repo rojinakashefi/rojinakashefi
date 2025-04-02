@@ -3,13 +3,10 @@
 - 🏫 I'm currently pursuing a M.Sc. in Artificial Intelligence at KU Leuven. I hold a B.Sc. in Computer Engineering from Amirkabir University of Technology.
 
 - 📚 My research interest fields are:
-  - Trustworthy ML
   - Computer Vision
-  - Continual Learning
   - Generative AI
-  - Explainable AI (XAI)
-  - AI in Health care
-  - Cognitive Neuroscience
+  - Multi-Modal Models
+  - AI applications
   - Deep Learning
   - Machine Learning
 
