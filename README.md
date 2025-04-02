@@ -2,18 +2,28 @@
 
 - 🏫 I'm currently pursuing a M.Sc. in Artificial Intelligence at KU Leuven. I hold a B.Sc. in Computer Engineering from Amirkabir University of Technology.
 
-<table>
-  <tr>
-    <td>Computer Vision</td>
-    <td>Generative AI</td>
-    <td>Multi-Modal Models</td>
-  </tr>
-  <tr>
-    <td>AI Applications</td>
-    <td>Deep Learning</td>
-    <td>Machine Learning</td>
-  </tr>
-</table>
+- 📚 My research interest fields are:
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1 1 30%; min-width: 150px;">
+    <ul>
+      <li>Computer Vision</li>
+      <li>Generative AI</li>
+    </ul>
+  </div>
+  <div style="flex: 1 1 30%; min-width: 150px;">
+    <ul>
+      <li>Multi-Modal Models</li>
+      <li>AI Applications</li>
+    </ul>
+  </div>
+  <div style="flex: 1 1 30%; min-width: 150px;">
+    <ul>
+      <li>Deep Learning</li>
+      <li>Machine Learning</li>
+    </ul>
+  </div>
+</div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rojinakashefi&show_icons=true&count_private=true&theme=algolia&hide_rank=True)
 
