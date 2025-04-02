@@ -3,12 +3,7 @@
 - 🏫 I'm currently pursuing a M.Sc. in Artificial Intelligence at KU Leuven. I hold a B.Sc. in Computer Engineering from Amirkabir University of Technology.
 
 - 📚 My research interest fields are: 
-  - Trustworthy ML ␣␣        - Generative AI
-  - Explainable AI (XAI)
-  - AI in Health care
-  - Neuroscience
-  - Deep Learning
-  - Machine Learning
+  - Trustworthy ML - Generative AI - AI Applications - Multi-modal Models - Deep Learning - Machine Learning
 </div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rojinakashefi&show_icons=true&count_private=true&theme=algolia&hide_rank=True)
