@@ -1,6 +1,6 @@
 ### Hello there👋
 
-- 🏫 I'm currently pursuing a M.Sc. in Artificial Intelligence at KU Leuven. I hold a B.Sc. in Computer Engineering from Amirkabir University of Technology.
+- 🏫 I'm graduate M.Sc. in Artificial Intelligence at KU Leuven. I hold a B.Sc. in Computer Engineering from Amirkabir University of Technology.
 
 - 📚 My research interest fields are:
   - Trustworthy ML
